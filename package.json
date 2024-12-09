@@ -1,15 +1,26 @@
 {
   "name": "enhanced-sparkline",
-  "version": "1.1.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "A customizable library for rendering sparklines with canvas in React.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Umer Nawaz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umernawaz0301/enhanced-sparkline"
+  },
+  "keywords": [
+    "sparkline",
+    "graph",
+    "canvas",
+    "react",
+    "data-visualization"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@types/react": "^19.0.1",
     "@types/react-dom": "^19.0.1",
