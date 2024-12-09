@@ -6,6 +6,10 @@
   "types": "dist/index.d.ts",
   "author": "Umer Nawaz",
   "license": "MIT",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/umernawaz0301/enhanced-sparkline"
